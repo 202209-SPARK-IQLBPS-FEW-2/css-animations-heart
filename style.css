@@ -1,0 +1,11 @@
+.heart {
+  width: 250px;
+  padding: 0;
+  margin: 0 auto;
+  transform-origin: center;
+  transform: scale(1.05);
+}
+
+.heart img {
+  width: 100%;
+}
